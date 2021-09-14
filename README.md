@@ -2,8 +2,8 @@
 
  I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sefa-k%C3%B6se/)](https://www.linkedin.com/in/anirudhemmadi/)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sfkse5591@gmail.com)](mailto:kanna6501@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-sfkse-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sefa-k%C3%B6se/)](https://www.linkedin.com/in/sfkse/)
+[![Gmail Badge](https://img.shields.io/badge/-sfkse5591@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sfkse5591@gmail.com)](mailto:sfkse5591@gmail.com)
 
 ## ⚡ Technologies
 
