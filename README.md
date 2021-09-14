@@ -1,6 +1,6 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
- I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+ I am a tech enthusiast & full stack web developer. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-sfkse-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sefa-köse/)](https://www.linkedin.com/in/sefa-köse/)
 [![Gmail Badge](https://img.shields.io/badge/-sfkse5591@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sfkse5591@gmail.com)](mailto:sfkse5591@gmail.com)
